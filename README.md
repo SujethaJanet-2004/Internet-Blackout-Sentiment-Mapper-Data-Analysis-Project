@@ -1,4 +1,5 @@
 🌐 Internet Blackout Sentiment Mapper – Data Analysis Project
+
 This project analyzes social media–like text data about internet blackouts and maps the public sentiment (positive, negative, neutral) across different locations.
 
 🚀 Completed as a 2-day hands-on learning project with the help of AI guidance.
