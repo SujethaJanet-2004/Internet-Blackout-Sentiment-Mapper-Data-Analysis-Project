@@ -7,7 +7,9 @@ This project analyzes social media–like text data about internet blackouts and
 📌 Project Overview
 
 Collected a sample dataset (CSV) of blackout-related posts (2025 included).
+
 Performed data preprocessing (cleaning, text normalization).
+
 Conducted sentiment analysis to classify text into positive, negative, or neutral.
 
 Visualized insights using:
@@ -21,7 +23,9 @@ Visualized insights using:
 🛠️ Tools & Technologies
 
 Python
+
 Jupyter Notebook
+
 Libraries: Pandas, Matplotlib, Seaborn, TextBlob, WordCloud, Folium
 
 📂 Project Structure
@@ -33,16 +37,21 @@ Internet-Blackout-Sentiment-Mapper/
 📊 Sample Output
 
 Sentiment Distribution Chart
+
 Word Cloud of Key Terms
+
 Interactive Map with Sentiment Markers
 
 💡 Key Takeaways
 
 Learned how to handle real-world data (CSV).
+
 Improved skills in data cleaning, sentiment analysis, and visualization.
+
 Experienced how AI can accelerate learning by providing samples, guidance, and explanations.
 
 👉 View on GitHub
 
 ✨ AI is not here to replace us—it’s here to empower us.
+
 This project is proof that with curiosity + AI guidance, you can build something meaningful in just a couple of days! 🚀
