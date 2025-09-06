@@ -30,8 +30,11 @@ Libraries: Pandas, Matplotlib, Seaborn, TextBlob, WordCloud, Folium
 
 📂 Project Structure
 Internet-Blackout-Sentiment-Mapper/
+
 │── internet_blackout_sample.csv      # Sample dataset
+
 │── Internet_Blackout_Sentiment.ipynb # Jupyter Notebook with full analysis
+
 │── README.md                         # Project documentation
 
 📊 Sample Output
